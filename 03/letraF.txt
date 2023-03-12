@@ -1,0 +1,1 @@
+Resposta: 200. Na sequencia não há nenhuma razão que irá calcular a progressão. Mas se observar bem, nota-se que todos os números começam com a letra "D", logo o próximo número começa com essa letra.

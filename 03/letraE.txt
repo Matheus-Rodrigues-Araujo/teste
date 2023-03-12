@@ -1,0 +1,5 @@
+Resposta: 12.Segue a mesma lógica da sequência de Fibonacci, onde o próximo número a ser descoberto é resultado da soma de cada numeral com o numeral que o antecede.
+
+1, 1, 2, 3, 5, 7, ?
+
+-> 1, 1, 2, 3, 5, 7, 12

@@ -1,0 +1,24 @@
+Resposta: Próximo valor é 100.
+
+Sequência: 4, 16, 36, 64
+
+1º) Verificando as adições feitas para ter os próximos números
+4  para 16: 12
+16 para 36: 20  
+36 para 64: 28
+
+2º) Calculando razão
+* 20 - 12 = 8
+* 28 - 20 = 8
+
+
+3º) Resolução
+
+Logo, a razão entre os números vai sendo somada com 8 para criar o próximo número da sequência. 
+Subtrai-se o numeral e o seu antecessor, depois o valor encontrado é acrescido de 8 e é 
+somado com o último valor da sequência para criar o próximo número.
+
+Exemplo: 
+ -> 36 para 64 = 28
+ -> 28 + 8 = 36
+ -> 64 + 36 = 100

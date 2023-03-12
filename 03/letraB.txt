@@ -1,0 +1,5 @@
+Resposta: 128.
+
+Os valores da sequência são originados das potências de 2.
+No caso da questão, para descobrir a 7º valor:
+2 elevado a 7 = 128

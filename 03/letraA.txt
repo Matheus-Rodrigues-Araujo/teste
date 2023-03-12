@@ -1,0 +1,4 @@
+Resposta: 9
+
+Soma-se o numeral e seu antecessor para descobrir o valor que será somado ao último a fim de descobrir o próximo valor.
++

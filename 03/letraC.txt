@@ -1,0 +1,10 @@
+Resposta: 49
+Sequência: 0, 1, 4, 9, 16, 25, 36
+
+A razão é acrescida de 2. A fim de descobrir o próximo valor, subtrai o numeral
+e seu antecessor e adiciona mais 2 para descobrir o próximo resultado.
+
+Exemplo:
+1°) 25 -> 36 = 11;
+2°) 11 + 2 = 13
+3º) 36 + 13 = 49
